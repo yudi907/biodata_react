@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yudireact/static/css/main.1eed2f09.css",
+    "main.js": "/Yudireact/static/js/main.bfd90341.js",
+    "static/js/787.6606bfd5.chunk.js": "/Yudireact/static/js/787.6606bfd5.chunk.js",
+    "static/media/foto.png": "/Yudireact/static/media/foto.a53f10d85a9373b0fcee.png",
+    "index.html": "/Yudireact/index.html",
+    "main.1eed2f09.css.map": "/Yudireact/static/css/main.1eed2f09.css.map",
+    "main.bfd90341.js.map": "/Yudireact/static/js/main.bfd90341.js.map",
+    "787.6606bfd5.chunk.js.map": "/Yudireact/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eed2f09.css",
+    "static/js/main.bfd90341.js"
+  ]
+}
